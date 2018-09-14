@@ -1,2 +1,2 @@
 var playlist = {};
-var{}
+var playlist{}
