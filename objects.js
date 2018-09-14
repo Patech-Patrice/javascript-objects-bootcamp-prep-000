@@ -1,2 +1,2 @@
 var playlist = {};
-const 
+var{}
